@@ -1,0 +1,217 @@
+@import url('https://fonts.googleapis.com/css2?family=Lavishly+Yours&family=Lora&family=Send+Flowers&family=Shadows+Into+Light&display=swap');
+body{
+    background-color:burlywood;
+}
+.a1{
+    margin-top: -8px;
+    margin-left: -103px;
+    width: 1384px;
+    height: 50px;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    background-color: gray;
+    color:black
+}
+pre{
+    font-family: 'Lora', serif;
+    font-size:large;
+    color: white;
+}
+
+.a2{
+    background-color:burlywood;
+    width: 100%;
+    height: 116px;
+    margin-left: -9px;
+}
+.a2 pre{
+    margin-top: -75px;
+    margin-left: 477px;
+    color: black;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-family: 'Lora', serif;
+}
+img{
+    width: 164px;
+    height: 116px;
+    margin-left: 122px;
+}
+.a3{
+    background-color: black;
+    width: 100%;
+    height: 500px;
+    margin-left: -9px;
+}
+p{
+    display: flex;
+    margin-left: 565px;
+    margin-top: 10px;
+    color: white;
+    font-size: xx-large;
+    margin-top: 0px;
+    font-family: 'Lora', serif;
+}
+.a3{
+    background-image: url(./images1/cookies.jpg);
+    background-size: cover;
+    height: 853px;
+    width: 1383px;
+}
+.a3 p{
+    display: flex;
+    color:black;
+    margin-left: 73px;
+    font-size:xxx-large;
+    width: 506px;
+    height: 100px;
+    font-family: 'Shadows Into Light', cursive;
+}
+.a3 h1{
+    display: flex;
+    margin-left: 157px;
+    font-size: xxx-large;
+    font-family: 'Shadows Into Light', cursive;
+    color: chocolate;
+}
+.a3-2{
+    width: 200px;
+    height: 300px;
+}
+.row{
+    width: 100%;
+    height: 675px;
+    background-color:burlywood;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+.col{
+    width: 22%;
+    height: 338px;
+    border: 2px solid burlywood;
+}
+.col-1{
+    background-color:white;
+}
+.col-2{
+    background-color:white;
+}
+.col-3{
+    background-color:white;
+}
+.col-4{
+    background-color:white;
+}
+.col img{
+    margin-top: -154px;
+    margin-left: -1px;
+    width: 280px;
+    height: 357px;
+}
+.col button{
+    margin-left: 171px;
+    width: 88px;
+    display: flex;
+    margin-top: -41px;
+}
+h4{
+    text-align: center;
+}
+.row-2{
+    width: 100%;
+    height: 472px;
+    background-color:burlywood;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.col{
+    width: 22%;
+    height: 346px;
+    border: 2px solid burlywood;
+}
+.col-1{
+    background-color:burlywood;
+}
+.col-2{
+    background-color:burlywood;
+}
+.col-3{
+    background-color:burlywood;
+}
+.col-4{
+    background-color:burlywood;
+}
+.col img{
+    margin-top: -154px;
+    margin-left: -1px;
+    width: 280px;
+    height: 357px;
+}
+.col button{
+    margin-left: 171px;
+    width: 88px;
+    display: flex;
+    margin-top: -41px;
+}
+h4{
+    text-align: center;
+}
+.r8{
+    width: 1279px;
+    height: 329px;
+    text-align:center;
+    background-color:burlywood;
+    font-size: xx-large;
+    margin-left: -1px;
+    margin-top: -41px;
+    padding-top: 10px;
+}
+input{
+    width: 400px;
+}
+button{
+    background-color:chocolate;
+    color:white;
+    border-radius: 25px;
+    width: 200px;
+}
+button:hover{
+    background-color:white;
+    color:chocolate;
+}
+.r9{
+    width: 1279px;
+    height: 113px;
+    text-align:center;
+    background-color:burlywood;
+    font-size: xx-large;
+    margin-left: 0px;
+    margin-top: -24px;
+    padding-top: 10px;
+}
+.r9 p{
+    font-size:large;
+    margin-left: 15px;
+    color: black;
+    
+}
+h4{
+    text-align:left;
+    font-size: large;
+    margin-left: 17px;
+}
+.r9-1 img{
+    width: 280px;
+    height: 216px;
+    margin-left: 944px;
+    margin-top: -119px;
+    
+}
+hr{
+    color: black;
+}
